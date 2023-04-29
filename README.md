@@ -1,4 +1,4 @@
-# Partitions-of-totally-positive-integers-in-real-quadratic-fields
+# Implementation - Partitions of totally positive integers in real quadratic fields
 This is the implementation of the algorithm described in my Bachelor's thesis: Partitions of totally positive elements in real quadratic fields for the year 2022/2023.
 
 The algorithm and theory behind it is described in the thesis above. The program is written in Python 3.8.6 with the Python Math Library included. Newer versions of Python should work also.
