@@ -3,6 +3,9 @@ This is the implementation of the algorithm described in my Bachelor's thesis: P
 
 The algorithm and theory behind it is described in the thesis above. The program is written in Python 3.8.6 with the Python Math Library included. Newer versions of Python should work also.
 
+## Documentation
+For the documentation, please see the PDF version of the thesis mentioned.
+
 ## Usage:
 ### Input:
 After running the program, the user is asked for three inputs:
