@@ -17,4 +17,4 @@ After running the program, the user is asked for three inputs:
     - this prints all the partitions in the form [(a,b), (c,d), ...]
   
 ### Output:
-The output is the number of partitions (with each partition printed, if the user wants) of totally positive integer 'a + b.omega_D'. If 'a + b*omega_D' is not totally positive in Q[sqrt(D)], then the output is zero. Also, if D is not a square free integer, the program will give an arror.
+The output is the number of partitions (with each partition printed, if the user wants) of totally positive integer 'a + b.omega_D'. If 'a + b*omega_D' is not totally positive in Q(sqrt(D)), then the output is zero. Also, if D is not a square free integer, the program will give an arror.
